@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MelSprites_Night.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mel's Down Note0000" x="0" y="0" width="264" height="517" frameX="0" frameY="-12" frameWidth="273" frameHeight="531"/>
+	<SubTexture name="Mel's Down Note0001" x="0" y="0" width="264" height="517" frameX="0" frameY="-12" frameWidth="273" frameHeight="531"/>
+	<SubTexture name="Mel's Down Note0002" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0003" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0004" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0005" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0006" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0007" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0008" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0009" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0010" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0011" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0012" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0013" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Down Note0014" x="264" y="0" width="273" height="531"/>
+	<SubTexture name="Mel's Idle0000" x="537" y="0" width="296" height="536" frameX="0" frameY="-33" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0001" x="537" y="0" width="296" height="536" frameX="0" frameY="-33" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0002" x="833" y="0" width="290" height="554" frameX="-5" frameY="-14" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0003" x="833" y="0" width="290" height="554" frameX="-5" frameY="-14" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0004" x="1123" y="0" width="283" height="564" frameX="-12" frameY="-6" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0005" x="1123" y="0" width="283" height="564" frameX="-12" frameY="-6" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0006" x="1406" y="0" width="287" height="569" frameX="-12" frameY="-1" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0007" x="1406" y="0" width="287" height="569" frameX="-12" frameY="-1" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0008" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0009" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0010" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0011" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0012" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Idle0013" x="1693" y="0" width="279" height="570" frameX="-12" frameY="0" frameWidth="299" frameHeight="570"/>
+	<SubTexture name="Mel's Left Note0000" x="0" y="570" width="277" height="562" frameX="0" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0001" x="0" y="570" width="277" height="562" frameX="0" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0002" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0003" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0004" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0005" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0006" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0007" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0008" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0009" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0010" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0011" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0012" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0013" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Left Note0014" x="277" y="570" width="274" height="562" frameX="-7" frameY="0" frameWidth="281" frameHeight="562"/>
+	<SubTexture name="Mel's Right Note0000" x="551" y="570" width="274" height="564" frameX="-7" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0001" x="551" y="570" width="274" height="564" frameX="-7" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0002" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0003" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0004" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0005" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0006" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0007" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0008" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0009" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0010" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0011" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0012" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0013" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's Right Note0014" x="825" y="570" width="279" height="564" frameX="0" frameY="0" frameWidth="281" frameHeight="564"/>
+	<SubTexture name="Mel's up Note0000" x="1104" y="570" width="371" height="586" frameX="0" frameY="0" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0001" x="1104" y="570" width="371" height="586" frameX="0" frameY="0" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0002" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0003" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0004" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0005" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0006" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0007" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0008" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0009" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0010" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0011" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0012" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0013" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+	<SubTexture name="Mel's up Note0014" x="1475" y="570" width="344" height="583" frameX="-27" frameY="-5" frameWidth="371" frameHeight="588"/>
+</TextureAtlas>

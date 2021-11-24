@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MelTalk.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MelTalk0000" x="0" y="0" width="297" height="568"/>
+	<SubTexture name="MelTalk0001" x="0" y="0" width="297" height="568"/>
+	<SubTexture name="MelTalk0002" x="297" y="0" width="297" height="568"/>
+	<SubTexture name="MelTalk0003" x="297" y="0" width="297" height="568"/>
+	<SubTexture name="MelTalk0004" x="594" y="0" width="297" height="568"/>
+	<SubTexture name="MelTalk0005" x="594" y="0" width="297" height="568"/>
+</TextureAtlas>

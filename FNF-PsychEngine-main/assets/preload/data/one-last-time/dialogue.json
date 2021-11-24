@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Man...  How do you this.... for hours??",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "mel"
+		},
+		{
+			"expression": "talk",
+			"text": "*starts speaking in the language of gods*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kys"
+		},
+		{
+			"expression": "talk",
+			"text": "True, how about we sing one last time, then I gotta head home, my mom doesn't want me out for too long.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mel"
+		}
+	]
+}

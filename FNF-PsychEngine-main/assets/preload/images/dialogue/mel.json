@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				1,
+				-1
+			],
+			"loop_name": "MelTalk",
+			"idle_name": "MelTalk"
+		},
+		{
+			"loop_name": "MelTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "MelTalk",
+			"anim": "",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "MelTalk"
+}

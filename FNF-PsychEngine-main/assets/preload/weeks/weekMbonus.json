@@ -1,0 +1,39 @@
+{
+	"storyName": "FUN IS Infinite",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Boost",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		],
+		[
+			"Cyberfunk",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Mel Bonus"
+}

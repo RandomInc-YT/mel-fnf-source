@@ -1,0 +1,57 @@
+{
+	"storyName": "Mel Funny",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"mel",
+		""
+	],
+	"songs": [
+		[
+			"Chill",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		],
+		[
+			"Swag",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		],
+		[
+			"One Last Time",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		],
+		[
+			"NightTime",
+			"mel",
+			[
+				6,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mel Week"
+}

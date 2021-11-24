@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mel's Idle"
+		},
+		{
+			"offsets": [
+				29,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mel's Left Note"
+		},
+		{
+			"offsets": [
+				-14,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mel's Right Note"
+		},
+		{
+			"offsets": [
+				96,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mel's up Note"
+		},
+		{
+			"offsets": [
+				-3,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mel's Down Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/night/MelSprites_Night",
+	"position": [
+		100,
+		180
+	],
+	"healthicon": "mel",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		25,
+		202
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

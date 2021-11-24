@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bruh",
+			"loop": false,
+			"name": "Joke_Gf_Bruh"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Joke_Gf_Vibing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Joke_Gf",
+	"position": [
+		-400,
+		-100
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		200,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

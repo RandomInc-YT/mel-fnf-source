@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Joke_Bf_Down_Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Joke_Bf_idle"
+		},
+		{
+			"offsets": [
+				18,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joke_Bf_Up_Note"
+		},
+		{
+			"offsets": [
+				18,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Joke_Bf_Up_Miss"
+		},
+		{
+			"offsets": [
+				-24,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joke_Bf_Right_Note"
+		},
+		{
+			"offsets": [
+				-36,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Joke_Bf_Right_Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Joke_Bf_Down_Miss"
+		},
+		{
+			"offsets": [
+				8,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joke_Bf_Left_Note"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Joke_Bf_Left_Miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Joke_Bf",
+	"position": [
+		-1050,
+		-50
+	],
+	"healthicon": "joke-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-605,
+		400
+	],
+	"sing_duration": 4,
+	"scale": 0.399999999999999
+}

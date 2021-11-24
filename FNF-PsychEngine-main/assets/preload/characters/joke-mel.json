@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Joke_Mel_Idle"
+		},
+		{
+			"offsets": [
+				18,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Joke_Mel_Down"
+		},
+		{
+			"offsets": [
+				41,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joke_Mel_Left"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joke_Mel_Right"
+		},
+		{
+			"offsets": [
+				21,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joke_Mel_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Joke_Mel",
+	"position": [
+		950,
+		350
+	],
+	"healthicon": "joke-mel",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		25,
+		202
+	],
+	"camera_position": [
+		-350,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Run",
+	"idle_anim": "Moving",
+	"position": [
+		190,
+		30
+	],
+	"scale": 0.85,
+	"image": "Storymodething"
+}

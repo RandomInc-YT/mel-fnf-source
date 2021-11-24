@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				99
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Joke_Bf_Lives",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Joke_Bf_Death_Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Joke_Bf_Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Joke_Bf",
+	"position": [
+		-1050,
+		-50
+	],
+	"healthicon": "joke-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-605,
+		400
+	],
+	"sing_duration": 4,
+	"scale": 0.399999999999999
+}

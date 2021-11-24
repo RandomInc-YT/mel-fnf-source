@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mel's Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mel's Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mel's Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mel's up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mel's Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-180
+			],
+			"anim": "swag",
+			"fps": 24,
+			"name": "Swag",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MelSprites",
+	"position": [
+		100,
+		180
+	],
+	"healthicon": "mel",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		25,
+		202
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

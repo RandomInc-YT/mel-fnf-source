@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well, it's night now, I guess we can do a very quick one, then I gotta go home to sleep."
+		}
+	]
+}
